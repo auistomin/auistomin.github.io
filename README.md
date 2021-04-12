@@ -1,2 +1,2 @@
 # auistomin.github.io
- Aleksey Istomin
+Aleksey Istomin
